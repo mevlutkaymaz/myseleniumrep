@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: testcases.costumProjectRunner
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 2, Errors: 0, Skipped: 1, Time elapsed: 0.134 s <<< FAILURE! - in testcases.costumProjectRunner
+validate(testcases.ValidationsTest)  Time elapsed: 0.014 s  <<< FAILURE!
+junit.framework.ComparisonFailure: expected:<A[]> but was:<A[1]>
+	at testcases.ValidationsTest.validate(ValidationsTest.java:18)
+
+validate(testcases.ValidationsTest)  Time elapsed: 0.015 s  <<< FAILURE!
+junit.framework.AssertionFailedError: Error Message
+	at testcases.ValidationsTest.validate(ValidationsTest.java:25)
+

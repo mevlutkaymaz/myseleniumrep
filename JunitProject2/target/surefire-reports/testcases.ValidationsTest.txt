@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: testcases.ValidationsTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0.029 s <<< FAILURE! - in testcases.ValidationsTest
+validate(testcases.ValidationsTest)  Time elapsed: 0.021 s  <<< FAILURE!
+junit.framework.ComparisonFailure: expected:<A[]> but was:<A[1]>
+	at testcases.ValidationsTest.validate(ValidationsTest.java:18)
+
+validate(testcases.ValidationsTest)  Time elapsed: 0 s  <<< FAILURE!
+junit.framework.AssertionFailedError: Error Message
+	at testcases.ValidationsTest.validate(ValidationsTest.java:25)
+
